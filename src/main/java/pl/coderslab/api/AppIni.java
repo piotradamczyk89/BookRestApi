@@ -24,4 +24,6 @@ public class AppIni extends AbstractAnnotationConfigDispatcherServletInitializer
     @Override
     protected String[] getServletMappings() {
         return new String[]{"/"};   }
+    //get servlet filtr
+
 }
